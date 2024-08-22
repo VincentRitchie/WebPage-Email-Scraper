@@ -2,7 +2,7 @@
 # Webpage Email Scraper
 
 <a>
-  <img src="https://example.com/email-scraper-logo.png" alt="Logo" height="350" width="650" />
+  <img src="https://github.com/VincentRitchie/WebPage-Email-Scraper/blob/main/Web%20Page%20Email%20Scraper%20img.png" alt="Logo" height="350" width="650" />
 </a>
 
 ## Table of Contents
@@ -58,7 +58,7 @@ To use the `Email Scraper` script, follow these steps:
 ## Screenshot
 
 <a>
-  <img src="#" alt="Screenshot" width="650" />
+  <img src="https://github.com/VincentRitchie/WebPage-Email-Scraper/blob/main/Web%20Page%20Email%20Scraper%20screenshot.png" alt="Screenshot" width="650" />
 </a>
 
 ## Future Enhancements
@@ -86,7 +86,6 @@ To use the `Email Scraper` script, follow these steps:
 ## Contributing
 
 Feel free to submit issues and enhancement requests. Pull requests are also welcome.
-
 
 ## Author
 
